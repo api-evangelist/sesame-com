@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sesame is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by matrix-partners, redpoint-ventures, spark-capital, sv-angel) and added to the network as a stub for full-pipeline profiling.
-- https://sesame.com
+Sesame builds AI‑powered personal agents that help users manage tasks, explore ideas, and collaborate across devices. Available on iOS and Android, the platform offers conversational interfaces, integrations with popular apps, and a growing ecosystem of third‑party tools. The company emphasizes privacy, security, and a user‑centric design, positioning its agents as everyday collaborators for both personal and professional use.
+
+**Areas:** Company · AI · PersonalAgents · Productivity · Privacy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sesame.com)
+- [Documentation](https://www.sesame.com)
+- [Getting started](https://www.sesame.com)
+- [Support](https://www.sesame.com/contact-us)
+- [Blog](https://www.sesame.com/journal)
+- [Security](https://sesame.com/vulnerability-disclosure-policy)
+- [Terms of service](https://www.sesame.com/terms)
+- [Privacy policy](https://www.sesame.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sesame-com/](https://apis.io/providers/sesame-com/).
